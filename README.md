@@ -104,8 +104,6 @@ Catatan:
 php artisan jwt:secret
 ```
 
-Untuk melihat implementasi API dapat dilihat pada repositori berikut
-> https://github.com/dibaliqaja/pesantren-app
 
 ### Kredensial Pengguna yang ada pada Seeder
 | #        | Administrator    | Pengurus            | Santri              |
