@@ -1,12 +1,4 @@
-<!-- 
-  PROJECT: Pesantren CMS
-  AUTHOR: Muhammad Iqbal (dibaliqaja)
-  GITHUB: https://github.com/dibaliqaja/pesantren-cms
-  TWITTER: https://twitter.com/dibaliqaja
-  FACEBOOK: https://facebook.com/dibaliqaja
-  LINKEDIN: https://linkedin.com/in/dibaliqaja
-  EMAIL: dibaliqaja@gmail.com
--->
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -34,7 +26,7 @@
         <div class="row">
           <div class="col-12 col-sm-8 offset-sm-2 col-md-6 offset-md-3 col-lg-6 offset-lg-3 col-xl-4 offset-xl-4">
             <div class="login-brand">
-              <img src="{{ asset('assets/img/ponpes.svg') }}" alt="logo" width="120">
+              <img src="{{ asset('assets/img/logo1.jpeg') }}" alt="logo" width="120">
             </div>
 
             <div class="card card-primary">
@@ -90,7 +82,7 @@
             </div>
             <div class="simple-footer">
               Copyright &copy; {{ date('Y') }}
-              <div class="bullet"></div> Made by <a href="https://github.com/dibaliqaja" target="_blank">Muhammad Iqbal</a>
+              <div class="bullet"></div> Made by <a href="https://github.com/dibaliqaja" target="_blank">Kelompok 4 KBT</a>
             </div>
           </div>
         </div>
